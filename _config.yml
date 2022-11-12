@@ -4,10 +4,8 @@ title:	♡
 email: yoursocialfeeds@outlook.com
 author: YFS
 copyright: Copyright © 2022
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: Welcome! This is the area for everyone to find their preferred social feeds, ranging from sports to beauty. You'll always get something 
+fresh the next time you come here if you find something you like!
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "yoursocialfeed.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -22,7 +20,7 @@ yat:
 # debug: false
 
 # If you don't want transparent header, you can set false
-# header_transparent: true
+header_transparent: true
 
 # Google analytics
 # google_analytics: [Tracking ID]
@@ -147,7 +145,7 @@ yat:
 
 # Gitment comments
 # gitment:
-#   username: "Your GitHub username"
+#   username: "080S"
 #   repo: "The repo to store comments"
 #   client_id: "Your client ID"
 #   client_secret: "Your client secret"
