@@ -1,6 +1,6 @@
 ---
 layout: post
-image: assets/images/banners/vv.jpg title: Luxury
+title: Luxury
 
 
 author: Jeffrey
