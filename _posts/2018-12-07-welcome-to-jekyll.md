@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Luxury
-<img style="float: right;" src="/assets/images/banners/vv.jpg>
+image: assets/images/banners/vv.jpg title: Luxury
+
 
 author: Jeffrey
 categories: Luxury
