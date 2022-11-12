@@ -1,7 +1,5 @@
 ---
 layout: post
-video: https://vjs.zencdn.net/v/oceans.mp4
-	
 title: Luxury
 subheading: A awesome static site generator.
 author: Jeffrey
