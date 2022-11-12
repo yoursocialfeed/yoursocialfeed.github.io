@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Luxury
+image: https://bit.ly/3xTmdUP
 subheading: A awesome static site generator.
 author: Jeffrey
 categories: Luxury
