@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Luxury
-image: https://bit.ly/3xTmdUP
-subheading: A awesome static site generator.
+<img style="float: right;" src="/assets/images/banners/vv.jpg>
+
 author: Jeffrey
 categories: Luxury
 banner:
